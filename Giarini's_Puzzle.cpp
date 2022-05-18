@@ -1,8 +1,5 @@
 /*
             Name: Abdelrahman Osama Ahmed Mohamed
-            ID: 1808518
-            Section: 5
-            Task 3 : Guarini's Puzzle
 */
 
 
